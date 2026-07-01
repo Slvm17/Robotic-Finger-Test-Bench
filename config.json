@@ -1,0 +1,10 @@
+{
+    "default_com_port": "",
+    "baud_rate": 115200,
+    "motor_speed": 500,
+    "peak_drop_threshold": 0.5,
+    "calibration_factor": 1.0,
+    "sampling_rate": 10,
+    "export_folder": "./exports",
+    "graph_history_length": 500
+}

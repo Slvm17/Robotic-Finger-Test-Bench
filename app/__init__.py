@@ -1,0 +1,1 @@
+# LoadCellTester application package
